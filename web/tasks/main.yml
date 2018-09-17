@@ -1,2 +1,4 @@
 ---
 # tasks file for web
+ import_tasks: install.yml
+ 
